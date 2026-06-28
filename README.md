@@ -75,8 +75,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C63FF)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/subhanbhatti50134/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/subhan._.134)
-[![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@subhanbhatti50)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:subhanbhatti50134@gmail.com)
 
 <br>
