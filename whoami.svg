@@ -1,0 +1,40 @@
+<svg width="860" height="280" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, sans-serif">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161B22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="860" height="280" rx="12" fill="url(#cardGrad)" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="280" rx="2" fill="url(#accentGrad)"/>
+
+  <!-- Section label -->
+  <text x="30" y="36" font-size="11" fill="#6C63FF" font-weight="600" letter-spacing="3" text-anchor="start">WHO AM I</text>
+
+  <!-- Name -->
+  <text x="30" y="72" font-size="28" fill="#E6EDF3" font-weight="700">Subhan Bhatti</text>
+
+  <!-- Tagline -->
+  <text x="30" y="100" font-size="14" fill="#6C63FF">CS Student · Full-Stack Dev · AI/Agentic Systems</text>
+
+  <!-- Divider line -->
+  <line x1="30" y1="116" x2="830" y2="116" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Bio bullets -->
+  <text x="30" y="144" font-size="13" fill="#8B949E">🎓  CS (ADP) student at University of Management and Technology, Lahore</text>
+  <text x="30" y="168" font-size="13" fill="#8B949E">🤖  Completed Agentic AI Diploma from PNY Trainings</text>
+  <text x="30" y="192" font-size="13" fill="#8B949E">💼  Ex Software Dev Intern @ Arch Technologies (C++)  ·  Ex Digital Marketing Manager @ Karachi House</text>
+  <text x="30" y="216" font-size="13" fill="#8B949E">🚀  Building projects in Python, React, Node.js, Django, FastAPI &amp; AI pipelines</text>
+  <text x="30" y="240" font-size="13" fill="#8B949E">🌱  Always exploring new tech — open to collaboration and new opportunities</text>
+
+  <!-- Bottom quote -->
+  <text x="30" y="268" font-size="11" fill="#3D444D" font-style="italic">"Build things that matter — one commit at a time."</text>
+</svg>
