@@ -61,17 +61,17 @@
 
 ![divider](./divider.svg)
 
-### `🏆 github trophies`
+### `📊 contribution graph`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=subhanbhatti50134-jpg&theme=darkhub&no-frame=true&margin-w=6)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbhatti50134-jpg&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 </div>
 
 ![divider](./divider.svg)
 
-### `🤝 connect`
+### `🤝 Connect`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C63FF)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/subhanbhatti50134/)
