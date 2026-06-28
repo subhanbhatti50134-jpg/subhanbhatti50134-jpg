@@ -45,11 +45,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&version=2)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&version=3)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=subhanbhatti50134-jpg&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF&version=2)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhanbhatti50134-jpg&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF&version=3)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=8B949E&version=2)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=8B949E&version=3)
 
 </div>
 
@@ -71,10 +71,10 @@
 
 ![divider](./divider.svg)
 
-### `🤝 Connect`
+### `🤝 connect`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C63FF)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/subhanbhatti50134/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/subhanbhatti50134/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:subhanbhatti50134@gmail.com)
 
 <br>
