@@ -8,17 +8,17 @@
 
 **✨ See what I'm currently up to**
 
-![Current Status](status.svg)
+![Current Status](./status.svg)
 
-![divider](divider.svg)
+![divider](./divider.svg)
 
 ### `👾 whoami`
 
-![Who am I](whoami.svg)
+![Who am I](./whoami.svg)
 
 > *"First, solve the problem. Then, write the code."* — **John Johnson**
 
-![divider](divider.svg)
+![divider](./divider.svg)
 
 ### `🧰 tech stack`
 
@@ -39,37 +39,37 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/subhanbhatti50134-jpg)
 [![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://github.com/subhanbhatti50134-jpg)
 
-![divider](divider.svg)
+![divider](./divider.svg)
 
 ### `📈 activity & contributions`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&version=2)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=subhanbhatti50134-jpg&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=subhanbhatti50134-jpg&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF&version=2)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=8B949E)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=subhanbhatti50134-jpg&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=8B949E&version=2)
 
 </div>
 
-![divider](divider.svg)
+![divider](./divider.svg)
 
 ### `🐍 contribution snake`
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg)
 
-![divider](divider.svg)
+![divider](./divider.svg)
 
-### `🏆 github 3d contribution`
+### `🏆 github trophies`
 
 <div align="center">
 
-![3D Graph](https://github-profile-3d-contrib.vercel.app/api?username=subhanbhatti50134-jpg&theme=dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=subhanbhatti50134-jpg&theme=darkhub&no-frame=true&margin-w=6)
 
 </div>
 
-![divider](divider.svg)
+![divider](./divider.svg)
 
 ### `🤝 connect`
 
