@@ -61,11 +61,11 @@
 
 ![divider](divider.svg)
 
-### `🏆 github trophies`
+### `🏆 github 3d contribution`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=subhanbhatti50134-jpg&theme=darkhub)
+![3D Graph](https://github-profile-3d-contrib.vercel.app/api?username=subhanbhatti50134-jpg&theme=dark)
 
 </div>
 
