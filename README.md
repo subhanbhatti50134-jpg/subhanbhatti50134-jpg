@@ -8,17 +8,17 @@
 
 **✨ See what I'm currently up to**
 
-![Current Status](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/status.svg)
+![Current Status](status.svg)
 
-![divider](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/divider.svg)
+![divider](divider.svg)
 
 ### `👾 whoami`
 
-![Who am I](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/whoami.svg)
+![Who am I](whoami.svg)
 
 > *"First, solve the problem. Then, write the code."* — **John Johnson**
 
-![divider](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/divider.svg)
+![divider](divider.svg)
 
 ### `🧰 tech stack`
 
@@ -39,7 +39,7 @@
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/subhanbhatti50134-jpg)
 [![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)](https://github.com/subhanbhatti50134-jpg)
 
-![divider](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/divider.svg)
+![divider](divider.svg)
 
 ### `📈 activity & contributions`
 
@@ -53,13 +53,13 @@
 
 </div>
 
-![divider](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/divider.svg)
+![divider](divider.svg)
 
 ### `🐍 contribution snake`
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg)
 
-![divider](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/divider.svg)
+![divider](divider.svg)
 
 ### `🏆 github trophies`
 
@@ -69,7 +69,7 @@
 
 </div>
 
-![divider](https://github.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/raw/main/assets/divider.svg)
+![divider](divider.svg)
 
 ### `🤝 connect`
 
