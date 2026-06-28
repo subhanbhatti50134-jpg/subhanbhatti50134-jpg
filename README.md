@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=subhanbhatti50134-jpg&theme=darkhub&no-frame=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=subhanbhatti50134-jpg&theme=darkhub)
 
 </div>
 
