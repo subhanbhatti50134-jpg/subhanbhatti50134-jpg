@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&background=0D111700&center=true&vCenter=true&width=850&height=100&lines=Subhan+Bhatti;CS+Student+%40+UMT+Lahore;C%2B%2B%2C+Python%2C+%26+Web+Developer;AI+%26+Agentic+Systems+Builder)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&background=0D111700&center=true&vCenter=true&width=850&height=100&lines=Subhan+Bhatti;CS+Student+%40+UMT+Lahore;C%2B%2B%2C+Python%2C+%26+Web+Developer;AI+%26+Agentic+Systems+Builder)](https://subhanbhatti50134-jpg.github.io/MyPortfolio/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://subhanbhatti50134-jpg.github.io/MyPortfolio/)
 [![Student](https://img.shields.io/badge/Student-UMT_Lahore-0969DA?style=for-the-badge&logo=graduated&logoColor=white&labelColor=0D1117)](https://github.com/subhanbhatti50134-jpg)
 [![Profile views](https://komarev.com/ghpvc/?username=subhanbhatti50134-jpg&label=Views&color=6C63FF&labelColor=0D1117&style=for-the-badge)](https://github.com/subhanbhatti50134-jpg)
 
@@ -22,7 +22,7 @@
 
 ### `🧰 tech stack`
 
-[![Tech Stack](https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,django,fastapi,flask,tailwind,react,nodejs,mysql,mongodb,git,github,vscode,vercel&theme=dark)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,django,fastapi,flask,tailwind,react,nodejs,mysql,mongodb,git,github,vscode,vercel&theme=dark)](https://subhanbhatti50134-jpg.github.io/MyPortfolio/)
 
 <br>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbhatti50134-jpg&theme=react-dark&bg_color=0D1117&hide_border=true)
+![Contribution Graph](https://ghchart.rshah.org/subhanbhatti50134-jpg)
 
 </div>
 
@@ -59,7 +59,7 @@
 
 ### `🤝 connect`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C63FF)](https://subhanbhatti50134-jpg.github.io/My-second-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C63FF)](https://subhanbhatti50134-jpg.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/subhanbhatti50134/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:subhanbhatti50134@gmail.com)
 
