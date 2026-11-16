@@ -4,7 +4,7 @@
 
 ---
 
-### `$ whoami`
+### `whoami`
 
 <img src="https://raw.githubusercontent.com/subhanbhatti50134-jpg/MyPortfolio/main/public/assets/subhan.jpg" alt="Subhan Bhatti" width="140" align="right">
 
@@ -25,7 +25,6 @@ status     open to internships, collaborations & open-source contributions
 
 ---
 
-### `$ cat now.txt`
 
 ```text
 ✅ Deepening Python, React & Django — building real-world full-stack projects
@@ -35,7 +34,7 @@ status     open to internships, collaborations & open-source contributions
 
 ---
 
-### `$ ls ~/projects`
+### `Projects`
 
 <table>
   <tr>
@@ -140,7 +139,7 @@ status     open to internships, collaborations & open-source contributions
 
 ---
 
-### `$ cat stack.txt`
+### `Skills`
 
 <p align="center">
   <a href="https://subhanbhatti50134-jpg.github.io/MyPortfolio/">
@@ -149,8 +148,6 @@ status     open to internships, collaborations & open-source contributions
 </p>
 
 ---
-
-### `$ tail -f activity.log`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
@@ -162,7 +159,7 @@ status     open to internships, collaborations & open-source contributions
 
 ---
 
-### `$ ./connect.sh`
+### `Contact`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6C63FF)](https://subhanbhatti50134-jpg.github.io/MyPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0969DA)](https://www.linkedin.com/in/subhanbhatti50134/)
