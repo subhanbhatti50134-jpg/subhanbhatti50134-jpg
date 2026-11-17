@@ -25,6 +25,7 @@ status     open to internships, collaborations & open-source contributions
 
 ---
 
+### `Now`
 
 ```text
 ✅ Deepening Python, React & Django — building real-world full-stack projects
@@ -148,6 +149,16 @@ status     open to internships, collaborations & open-source contributions
 </p>
 
 ---
+
+### `Stats`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=subhanbhatti50134-jpg&theme=dark&background=0D1117&hide_border=true" alt="GitHub streak stats: total contributions, current streak and longest streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhanbhatti50134-jpg&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=58A6FF&area=true&height=180&width=900" alt="Daily contributions activity graph">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/subhanbhatti50134-jpg/subhanbhatti50134-jpg/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation">
