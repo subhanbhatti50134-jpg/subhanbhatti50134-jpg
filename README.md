@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./terminal-hero.png" alt="$ whoami - Subhan Bhatti" width="100%">
+  <img src="./terminal-hero.png" alt="Neofetch-style profile card: ASCII portrait, system info, contact and GitHub stats" width="100%">
 </div>
 
 ---
