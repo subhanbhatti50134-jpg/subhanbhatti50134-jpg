@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./terminal-hero.png" alt="Neofetch-style profile card: ASCII portrait, system info, contact and GitHub stats" width="100%">
+  <img src="./terminal-hero.png" alt="Neofetch-style profile card: colour ASCII portrait, skills, repos by language bars, contact, GitHub stats and a 16-colour palette strip" width="100%">
 </div>
 
 ---
