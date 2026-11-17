@@ -172,5 +172,3 @@ status     open to internships, collaborations & open-source contributions
 > "First, solve the problem. Then, write the code."
                                                     — John Johnson
 ```
-
-*Snake & stats refresh automatically via GitHub Actions.*
